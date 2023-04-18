@@ -1,0 +1,14 @@
+C:\Users\frank\source\repos\Try1\Try1\bin\Debug\Try1.exe.config
+C:\Users\frank\source\repos\Try1\Try1\bin\Debug\Try1.exe
+C:\Users\frank\source\repos\Try1\Try1\bin\Debug\Try1.pdb
+C:\Users\frank\source\repos\Try1\Try1\obj\Debug\Try1.csproj.AssemblyReference.cache
+C:\Users\frank\source\repos\Try1\Try1\obj\Debug\Try1.csproj.SuggestedBindingRedirects.cache
+C:\Users\frank\source\repos\Try1\Try1\obj\Debug\Try1.Form1.resources
+C:\Users\frank\source\repos\Try1\Try1\obj\Debug\Try1.Form2.resources
+C:\Users\frank\source\repos\Try1\Try1\obj\Debug\Try1.Properties.Resources.resources
+C:\Users\frank\source\repos\Try1\Try1\obj\Debug\Try1.csproj.GenerateResource.cache
+C:\Users\frank\source\repos\Try1\Try1\obj\Debug\Try1.csproj.CoreCompileInputs.cache
+C:\Users\frank\source\repos\Try1\Try1\obj\Debug\Try1.exe
+C:\Users\frank\source\repos\Try1\Try1\obj\Debug\Try1.pdb
+C:\Users\frank\source\repos\Try1\Try1\obj\Debug\Try1.Form_Citas_.resources
+C:\Users\frank\source\repos\Try1\Try1\obj\Debug\Try1.Form_Consulta_.resources
